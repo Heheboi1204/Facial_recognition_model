@@ -1,3 +1,5 @@
+This program aims to detect known faces in images.
+
 How It Works:
 Reference Faces
 Folder : facial_database/
